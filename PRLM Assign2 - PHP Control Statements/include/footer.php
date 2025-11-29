@@ -1,6 +1,6 @@
 <footer>
     <hr>
-    <p>Created by Lee <?= date('Y') ?></p>
+    <p>Created by Justin Lee Mercado<?= date('Y') ?></p>
 </footer>
 </body>
 </html>
